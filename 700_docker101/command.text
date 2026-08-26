@@ -1,0 +1,6 @@
+docker ps --all
+docker run hello-world
+docker run busybox ls
+    docker run 109a7d6487d9 e4c2925da2d3 16dfa661281b
+    docker run busybox pin google.com
+    docker run nginx
